@@ -1,7 +1,7 @@
 ## Visualizacion PEC4: Archivos del proyecto
 En este repositorio se incluyen todos los archivos utilizados en la Visualización de datos de la UOC para las práctica de evaluación continua PEC4.
 
-* Enlace Tableau Public: https://public.tableau.com/profile/germ.n.yepes#!/vizhome/Acuerdosdepazcontralaextincindelaspoblacionesindgenas_Visualizacin/Historia_visualizacion?publish=yes
+* 
 
 ## Archivos_datos
 Documentos: .xls
